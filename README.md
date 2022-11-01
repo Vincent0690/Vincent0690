@@ -1,7 +1,6 @@
-# Short BIO:
-New Account for "Pro" usage.
-
+# BIO:
 French heavy duty mechanic. Good at life helpers & automations.
+Just coding for myself or work sometimes.
 NodeJS, C++ lover.
 Front end stuff hater...
 
@@ -10,7 +9,7 @@ Front end stuff hater...
 | Part            | Model                                                               |
 |-----------------|---------------------------------------------------------------------|
 | CPU             | AMD Ryzen 9 3950x, cooled by an BeQuiet Dark Rock Pro 4             |
-| GPU             | ASUS ROG Strix RTX 3070ti                                           |
+| GPU             | ASUS ROG Strix RTX 3080ti                                           |
 | Motherboard     | MSI B550 Tomahawk                                                   |
 | RAM             | HyperX FURY Black HX436C17FB3K2/16 2x2x8Go 3600MHz DDR4 CL17        |
 | Storage         | 1TB NVME M.2 Samsung 980 Pro 2x 2TB Seagate Barracuda (ST2000DM008) |
