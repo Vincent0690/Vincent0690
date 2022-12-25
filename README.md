@@ -17,5 +17,4 @@ Front end stuff hater...
 | KB              | HyperX Alloy FPS RGB                                                |
 | Case            | MSI Vampiric 010x                                                   |
 | PSU             | ASUS ROG 850w Gold                                                  |
-| Car (inside PC) | Peugeot 205 GTI (Red, 1/18)                                         |
 | SYS_Fans        | 3x 140mm BeQuiet Silent Wings 3                                     |
