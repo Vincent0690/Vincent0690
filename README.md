@@ -4,17 +4,20 @@ Just coding for myself or work sometimes.
 NodeJS, C++ lover.
 Front end stuff hater...
 
-# PC Specs:
+# Main PC Specs:
 
-| Part            | Model                                                               |
-|-----------------|---------------------------------------------------------------------|
-| CPU             | AMD Ryzen 9 3950x, cooled by an BeQuiet Dark Rock Pro 4             |
-| GPU             | ASUS ROG Strix RTX 3080ti                                           |
-| Motherboard     | MSI B550 Tomahawk                                                   |
-| RAM             | HyperX FURY Black HX436C17FB3K2/16 2x2x8Go 3600MHz DDR4 CL17        |
-| Storage         | 1TB NVME M.2 Samsung 980 Pro 2x 2TB Seagate Barracuda (ST2000DM008) |
-| Screen          | Samsung Odyssey G7 27" 2k 240hz                                     |
-| KB              | HyperX Alloy FPS RGB                                                |
-| Case            | MSI Vampiric 010x                                                   |
-| PSU             | ASUS ROG 850w Gold                                                  |
-| SYS_Fans        | 3x 140mm BeQuiet Silent Wings 3                                     |
+| Part            | Model                                                               | Price  |
+|-----------------|---------------------------------------------------------------------|--------|
+| CPU             | Intel Core i9-13900K                                                |  525 € |
+| COOLER          | NZXT Kraken Z73                                                     |  230 € |
+| GPU             | Asus ROG STRIX GAMING OC RTX 4090                                   | 2000 € |
+| Motherboard     | Gigabyte Z790 AORUS ELITE AX                                        |  240 € |
+| RAM             | G.Skill Trident Z5 Neo RGB (128 GB) DDR5-6000 CL30                  |  460 € |
+| Storage NVME    | Samsung 990 Pro 2 TB                                                |  150 € |
+| Storage         | 2x Samsung 870 Evo 4 TB                                             |  500 € |
+| Screen          | Asus ROG Swift OLED PG42UQ 41.5" 4k 140Hz                           | 1100 € |
+| KB              | HyperX Alloy FPS RGB                                                |   70 € |
+| Case            | Lian Li O11 Dynamic EVO ATX                                         |  180 € |
+| PSU             | Asus ROG THOR 1200P 1200W                                           |  395 € |
+| SYS_Fans        | 9x Lian Li Uni Fan SL-Infinity 61.3 CFM 120 mm                      |  270 € |
+|---------------------------------------------------------------------------------------| 6120 € |
