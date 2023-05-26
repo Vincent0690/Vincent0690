@@ -20,4 +20,4 @@ Front end stuff hater...
 | Case            | Lian Li O11 Dynamic EVO ATX                                         |  180 € |
 | PSU             | Asus ROG THOR 1200P 1200W                                           |  395 € |
 | SYS_Fans        | 9x Lian Li Uni Fan SL-Infinity 61.3 CFM 120 mm                      |  270 € |
-|-----------------|---------------------------------------------------------------------| 6120 € |
+|                 |                                                                     | 6120 € |
