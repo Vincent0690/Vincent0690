@@ -8,10 +8,10 @@ Front end stuff hater...
 
 | Part            | Model                                                               | Price  |
 |-----------------|---------------------------------------------------------------------|--------|
-| CPU             | Intel Core i9-13900K                                                |  525 € |
+| CPU             | AMD Ryzen 9 7950X3D                                                 |  720 € |
 | COOLER          | NZXT Kraken Z73                                                     |  230 € |
 | GPU             | Asus ROG STRIX GAMING OC RTX 4090                                   | 2000 € |
-| Motherboard     | Gigabyte Z790 AORUS ELITE AX                                        |  240 € |
+| Motherboard     | ASUS ROG STRIX X670E-E GAMING WIFI                                  |  450 € |
 | RAM             | G.Skill Trident Z5 Neo RGB (128 GB) DDR5-6000 CL30                  |  460 € |
 | Storage NVME    | Samsung 990 Pro 2 TB                                                |  150 € |
 | Storage         | 2x Samsung 870 Evo 4 TB                                             |  500 € |
@@ -21,4 +21,4 @@ Front end stuff hater...
 | Case            | Lian Li O11 Dynamic EVO ATX                                         |  180 € |
 | PSU             | Asus ROG THOR 1200P 1200W                                           |  395 € |
 | Fans            | 9x Lian Li Uni Fan SL-Infinity 61.3 CFM 120 mm                      |  270 € |
-| TOTAL           |                                                                     | 7320 € |
+| TOTAL           |                                                                     | 7725 € |
